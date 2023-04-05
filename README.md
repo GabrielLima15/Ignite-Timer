@@ -1,3 +1,6 @@
+![Capa png](https://user-images.githubusercontent.com/77641643/230222623-33eff9bf-32c9-4b9e-9dcf-f7b2e4528c14.png)
+
+
 ## 👨🏽‍💻 Stack
 -  [ ] ReactJS ( utilizando o Vite para criação do projeto )
 -  [ ] Typescript
