@@ -10,8 +10,8 @@
  Faça o clone deste projeto em seu computador e depois execute com npm: 
  
  ```bash
-  git clone branch_url
-  cd igniteTime
+  git clone {url}
+  cd Ignite-Timer
   npm install
   npm run dev
 ```
