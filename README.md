@@ -2,12 +2,13 @@
 
 
 ## 👨🏽‍💻 Stack
--  [ ] ReactJS ( utilizando o Vite para criação do projeto )
--  [ ] Typescript
--  [ ] Styled-Components
--  [ ] React Router
--  [ ] React Hook Form
--  [ ] ContextAPI
+-  [x] ReactJS ( utilizando o Vite para criação do projeto )
+-  [x] Typescript
+-  [x] Styled-Components
+-  [x] React Router
+-  [x] React Hook Form
+-  [x] ContextAPI
+-  [ ] Reducers
 
 ## Executando o projeto
  Faça o clone deste projeto em seu computador e depois execute com npm: 
