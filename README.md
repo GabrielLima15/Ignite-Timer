@@ -8,7 +8,7 @@
 -  [x] React Router
 -  [x] React Hook Form
 -  [x] ContextAPI
--  [ ] Reducers
+-  [x] Reducers
 
 ## Executando o projeto
  Faça o clone deste projeto em seu computador e depois execute com npm: 
